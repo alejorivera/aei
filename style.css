@@ -22,20 +22,18 @@ body, p, h1, h2, h3, a {
 
 .header-unit h1 {
     color: #fff;
-    margin-top: 200;
     font-size: 42px;
     font-weight: 200;
     text-align: center;
-    padding-top: 130px;
+    padding-top: 200px;
 }
 
 .header-unit h2 {
     color: #fff;
-    margin-top: 200;
     font-size: 36px;
     font-weight: 200;
     text-align: center;
-    padding-top: 140px;
+    padding-top: 150px;
 }
 
 
@@ -112,22 +110,26 @@ video.fillWidth {
 
 
 #intro {
-	padding: 50px;
+	padding: 110px 0px 10px 0px;
 	color: #787f8c;
 }
 
-#intro .container {
-  padding-right: 150px;
-  padding-left: 150px;
-  margin-right: auto;
-  margin-left: auto;
+
+
+
+#intro p {font-size: 24px;}
+
+
+#process {
+    background-color: #fff;
+    padding: 60px 0px 60px 0px;
+    color: #787f8c;
+    text-align: center;
 }
 
-
-
-#intro h2 {font-size: 24px;}
-
-
+#process h2 {color: #5c5c5c; font-size: 21px;}
+#process p {font-size: 18px; text-align: left;}
+#process img {height: 100px; width: 100px;}
 
 
 
@@ -136,7 +138,7 @@ video.fillWidth {
 #team {
 	text-align: center;
 	background-color: #fff;
-	padding: 60px 0px 40px 0px;
+	padding: 90px 0px 40px 0px;
 	color: #787f8c;
 }
 
